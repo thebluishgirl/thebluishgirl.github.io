@@ -1,0 +1,17 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Lista de Tarefas baseado no Microsoft To Do",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "keywords": [
+    "html5",
+    "css3",
+    "js",
+    "node"
+  ],
+  "author": "Ranna Chinen",
+  "license": "MIT"
+}
